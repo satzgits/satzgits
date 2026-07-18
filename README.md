@@ -65,3 +65,7 @@ Yes I commit almost daily. It's a habit now.
 - [ai-operations-center](https://github.com/satzgits/ai-operations-center) — multi-agent ops dashboard
 - [llm-agent-eval-pipeline](https://github.com/satzgits/llm-agent-eval-pipeline) — evaluating LLM agent performance
 - [jupitrails-defi](https://github.com/satzgits/jupitrails-defi) — Solana DeFi swap route visualization
+- [market-data-pipeline](https://github.com/satzgits/market-data-pipeline) — real-time market data ingestion + technical indicators
+- [quantitative-portfolio-optimization](https://github.com/satzgits/quantitative-portfolio-optimization) — mean-variance, Kelly, risk parity
+- [cardano-options-nft](https://github.com/satzgits/Cardano-Options-NFT) — options trading on blockchain
+- [Enigma-AIML25](https://github.com/satzgits/Enigma-AIML25) — hackathon project
