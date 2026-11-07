@@ -10,7 +10,7 @@ I'm a Computational Math student at Mahindra University. I build things with cod
 
 **LLMs & AI Agents** — I've built an LLM inference API (FastAPI + Docker), fine-tuned models with LoRA, built a RAG-based Q&A system, dabbled with AI agent evaluation pipelines, and forked potpie-ai (an AI agent platform) to understand agent architectures.
 
-**Quantitative Finance** (newest) — I'm building an event-driven backtesting engine, a Monte Carlo options pricer with Black-Scholes validation, a market data pipeline with live indicators, a portfolio optimization suite (mean-variance, Kelly, risk parity), and a C++ order book with price-time priority matching. It's a lot, but it's all the same math.
+**Quantitative Finance**  — I'm building an event-driven backtesting engine, a Monte Carlo options pricer with Black-Scholes validation, a market data pipeline with live indicators, a portfolio optimization suite (mean-variance, Kelly, risk parity), and a C++ order book with price-time priority matching. It's a lot, but it's all the same math.
 
 **Audio & Signal Processing** — I worked on lightweight audio source separation, edge-AI speech enhancement, and real-time voice activity detection. These were my first attempts at deploying ML to resource-constrained environments.
 
