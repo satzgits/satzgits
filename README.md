@@ -6,8 +6,6 @@ I'm a Computational Math student at Mahindra University. I build things with cod
 
 #### What I've Been Working On
 
-**Computer Vision & Defence** — I built YOLOv8 + SAHI detection for satellite imagery (vehicles, aircraft, naval vessels) and semantic segmentation for high-altitude terrain, both aligned with DRDO labs. These were my first deep learning projects that actually ran on real data.
-
 **Quantum Computing** — I explored gate-based quantum simulation with CUDA.jl (GPU-accelerated Clifford circuits), contributed to QuantumClifford.jl and qutip-qip, and built my own GPU-accelerated quantum simulation framework. Most of this was in Julia and Python.
 
 **LLMs & AI Agents** — I've built an LLM inference API (FastAPI + Docker), fine-tuned models with LoRA, built a RAG-based Q&A system, dabbled with AI agent evaluation pipelines, and forked potpie-ai (an AI agent platform) to understand agent architectures.
